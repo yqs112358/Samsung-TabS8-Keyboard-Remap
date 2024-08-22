@@ -1,9 +1,14 @@
 # What?
 A simple Magisk module for Android which remaps physical hardware keys to any of Android's [virtual software keycodes](https://source.android.com/devices/input/key-character-map-files). For example, remapping your physical *CAPS_LOCK* key to *KEYCODE_POWER* (power button).
 
-By default in release `v1.0`, the following keys are remapped:
-* CAPS_LOCK --> KEYCODE_POWER
-* NUMPAD_MULTIPLY --> KEYCODE_POWER
+In this **forked** project for **Samsung Tab S8 Tablet**, the following keys are remapped:
+
+- Swap the lesser-used \` key with more-used ESC
+  - \` --> ESC
+  - Ctrl+\` --> \` 
+- Remap Screenshot button (SYSRQ) to avoid annoying accidental press
+  - SYSRQ --> None
+  - Ctrl+SYSRQ --> SYSRQ
 
 # Why?
 Why not?  :)

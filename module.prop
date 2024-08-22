@@ -1,7 +1,6 @@
-id=jefferderp.keyboardremaps
-name=Jefferderp's custom keyboard remaps
-version=v1.0
-versionCode=10
-author=Jefferderp
-description=Jefferderp's custom keyboard remaps
-updateJson=https://raw.githubusercontent.com/Jefferderp/Magisk-KeyboardRemaps/master/update.json
+id=samsung-tabs8-keyboard-remaps
+name=Samsung Tab S8 Physical Keyboard Remaps
+version=v1.1
+versionCode=11
+author=yqs112358(Jefferderp)
+description=A magisk module to remap physical keyboard keys for Samsung Tab S8 Tablet (forked Magisk-KeyboardRemaps)
