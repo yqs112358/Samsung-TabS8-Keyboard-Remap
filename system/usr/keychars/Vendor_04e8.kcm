@@ -621,6 +621,7 @@ key BUTTON_12 {
 }
 
 # yqs112358 Modified: SYSRQ->None, Ctrl+SYSRQ->SYSRQ
+map key 99     BUTTON_13
 key BUTTON_13 {
     base:                               none
     ctrl:                               none fallback SYSRQ
